@@ -592,6 +592,9 @@ margin-bottom: 16px;
 .form-content {
     margin-bottom: 8px;
 }
+.form-content-text{
+    margin-bottom: 16px;
+}
 .form-person-label {
     display: block;
     margin-bottom: 4px;
