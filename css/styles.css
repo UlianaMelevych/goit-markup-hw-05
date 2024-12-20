@@ -588,11 +588,9 @@ color: #2E2F42;
 margin-top: 16px;
 margin-bottom: 16px;
 }
-.form-cont-mod{
-    margin-bottom: 8px;
-}
+
 .form-content {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 .form-person-label {
     display: block;
