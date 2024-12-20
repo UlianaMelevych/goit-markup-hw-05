@@ -588,7 +588,9 @@ color: #2E2F42;
 margin-top: 16px;
 margin-bottom: 16px;
 }
-
+.form-cont-mod{
+    margin-bottom: 16px;
+}
 .form-content {
     margin-bottom: 8px;
 }
